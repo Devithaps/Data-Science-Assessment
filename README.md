@@ -18,7 +18,7 @@ Data Story:
 
 Project Overview: ABC Company Employee Data Analysis
 
-This project involves the analysis of employee data from 'ABC Company' (likely representing a sports organization given the context of teams and positions like 'PG', 'SF', 'C'). The analysis aims to understand various aspects of the employee base, including team distribution, age demographics, positional breakdown, salary expenditure, and the correlation between age and salary.
+This project involves the analysis of employee data from 'ABC Company'. The analysis aims to understand various aspects of the employee base, including team distribution, age demographics, positional breakdown, salary expenditure, and the correlation between age and salary.
 
  Steps
 
@@ -51,12 +51,11 @@ Visualization: Salary Expenditure by Team: The first bar graph visualizes the to
 5. Investigate if there's any correlation between age and salary, and represent it visually.
 Analysis: Investigated the relationship between an employee's age and their salary.
 Visualization: A scatter plot showing age versus salary, with a regression line to indicate the trend.
-Insights: The correlation coefficient between Age and Salary is approximately 0.214, suggesting a weak positive linear relationship. This implies that while there's a slight tendency for older employees to earn more, age is not a strong predictor of salary in this dataset. 'Correlation Between Age and Salary', is a scatter plot showing the relationship between an employee's age and their salary, along with a regression line. The correlation coefficient calculated is approximately 0.214.Positive, but Weak Correlation: The scatter plot shows a general upward trend, indicated by the red regression line. This visually confirms the positive correlation coefficient (0.214), meaning that as age increases, salary tends to increase, but not very strongly.Wide Spread: Despite the positive trend, there's a significant spread of data points around the regression line, especially for younger ages where salaries vary widely. This suggests that while age is a factor, it's not the sole determinant of salary, and many other factors likely influence an individual's earnings.Outliers/High Earners: There are some individuals, particularly in the mid-to-late 20s and early 30s, who have very high salaries, appearing as points far above the general trend. This indicates that some younger employees can achieve very high salaries, while some older employees might have lower salaries than others in their age group.
-
+Insights: The correlation coefficient between Age and Salary is approximately 0.214, suggesting a weak positive linear relationship. Salaries generally rise as age increases, but the relationship is not very strong. Younger employees display a wide range of salaries, suggesting that age is only one of many factors influencing earnings. Some younger professionals earn exceptionally high salaries, while some older employees earn less than their peers.
 
 Additional Information
 
-The dataset appears to be representative of a professional sports league, with 'Team', 'Position', 'Age', 'Height', 'Weight', and 'Salary' being key attributes. The analysis provides a foundational understanding of the company's employee demographics and salary structure.
+The dataset appears to be representative of a ABC Company, with 'Team', 'Position', 'Age', 'Height', 'Weight', and 'Salary' being key attributes. The analysis provides a foundational understanding of the company's employee demographics and salary structure.
 
 
 
